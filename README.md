@@ -1,4 +1,5 @@
 🐾 Landing Page — ONG Bem-estar Animal
+
 Exercício prático da disciplina de Programação Web.
 A página simula o site de uma ONG fictícia de resgate e adoção de animais, contendo as seguintes seções:
 
